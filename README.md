@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayrajkv" alt="akshayrajkv" /></a> </p>
 
-- 🔭 I’m currently working on **E ecommerce app**
+- 🔭 I’m currently working on **E commerce app**
 
 - 💬 Ask me about **flutter,android,ios,provider,firebase,hive,Rest api**
 
